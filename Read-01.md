@@ -72,18 +72,26 @@
 **How to implement media queries**
 
 - Use the @import rule
+
 ```
+
 @import url(smallstyle.css) screen and (min-width:600px)
+
 ```
 
 - Put media query directly in the style sheet
+
 ```
+
 @media screen and (min-width:500px){..}
+
 ```
 - Include query in the link
+
 ```
 <link rel = “stylesheet” media = “screen and (min-width:
 400px)”> and (orientation: portrait)>
+
 ```
 
 **For Example**
