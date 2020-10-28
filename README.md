@@ -19,8 +19,8 @@ This Site Will Contain  all future Repo For 301 Class
 | Read-06       | [Read Link ](https://aghyadalbalkhi-asac.github.io/reading-notes-301/Read-06)  |
 | Read-07       | [Read Link ](https://aghyadalbalkhi-asac.github.io/reading-notes-301/Read-07)  |
 | Read-08       | [Read Link ](https://aghyadalbalkhi-asac.github.io/reading-notes-301/Read-08)  |
-| Read       | [Read Link ](https://github.com/aghyadalbalkhi-ASAC/reading-notes-301)  |
-| Read       | [Read Link ](https://github.com/aghyadalbalkhi-ASAC/reading-notes-301)  |
+| Read-09       | [Read Link ](https://aghyadalbalkhi-asac.github.io/reading-notes-301/Read-09)  |
+| Read-10       | [Read Link ](https://aghyadalbalkhi-asac.github.io/reading-notes-301/Read-10)  |
 
 
 ## Contact Info : 
